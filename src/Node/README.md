@@ -4,8 +4,8 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/image-processing-node.git
-   cd src/Node
+   git clone https://github.com/NWL-Technology/Img2Design.Api.Sample.git
+   cd Img2Design.Api.Sample/src/Node
    ```
 2. Install dependencies:
    ```sh

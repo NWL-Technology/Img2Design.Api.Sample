@@ -4,8 +4,8 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/image-processing-csharp.git
-   cd img2design-api-remove-background-sample-code/src/CSharp
+   git clone https://github.com/NWL-Technology/Img2Design.Api.Sample.git
+   cd Img2Design.Api.Sample/src/CSharp
    ```
 
 2. **Open the project:**

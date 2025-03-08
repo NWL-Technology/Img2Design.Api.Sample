@@ -32,7 +32,7 @@ When using the API, be aware of the rate limiter.
 ## Folder Structure
 
 ```bash
-/img2design-api-remove-background-sample-code 
+/Img2Design.Api.Sample 
 │ ├── readme.md 
 │ ├── /src 
 │ │ ├── /CSharp 
@@ -46,13 +46,13 @@ When using the API, be aware of the rate limiter.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nwltech/img2design-api-remove-background-sample-code.git
+git clone https://github.com/NWL-Technology/Img2Design.Api.Sample.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd img2design-api-remove-background-sample-code/src
+cd Img2Design.Api.Sample/src
 ```
 
 ## Contributing

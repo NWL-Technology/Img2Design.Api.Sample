@@ -12,8 +12,8 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repository/python-image-processing.git
-cd src/Python
+git clone https://github.com/NWL-Technology/Img2Design.Api.Sample.git
+cd Img2Design.Api.Sample/src/Python
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)

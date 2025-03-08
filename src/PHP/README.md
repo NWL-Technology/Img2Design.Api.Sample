@@ -4,8 +4,8 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/image-processing-php.git
-   cd src/Php
+   git clone https://github.com/NWL-Technology/Img2Design.Api.Sample.git
+   cd Img2Design.Api.Sample/src/Php
    ```
 2. Install dependencies (Guzzle HTTP Client):
    ```sh
