@@ -4,7 +4,7 @@ This repository contains sample code for integrating with a WebAPI that removes 
 
 ## API Authentication
 
-To use the API, you need a **user token**, which can be retrieved from your account’s **settings** page. 
+To use the API, you need a **user token**, which can be retrieved from your account’s **settings** page. You must create an account on [Img 2 Design](https://www.img2design.com) to obtain your API secret key.
 
 ![alt text](img/api_token.png)
 
